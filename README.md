@@ -34,7 +34,7 @@ As an MCA student, I enjoy using my obsessive attention to detail, and my unequi
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/AswinBarath/AswinBarath/master/coding.gif" width="408" height="390" />
 
 
 ### Talking about Personal Stuff:
