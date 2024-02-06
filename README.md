@@ -34,7 +34,7 @@ As an MCA student, I enjoy using my obsessive attention to detail, and my unequi
 
 That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/ManasRanjanSahoo11/" width="408" height="318" />
+<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2euaaSLy-in1kYlvBjCHjb&ust=1707297264841000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCCz7GvloQDFQAAAAAdAAAAABAE" width="408" height="318" />
 
 
 ### Talking about Personal Stuff:
@@ -49,7 +49,6 @@ That's why I like to make things that make a difference.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
----
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
