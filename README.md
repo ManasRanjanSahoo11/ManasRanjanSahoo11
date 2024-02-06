@@ -82,9 +82,15 @@ That's why I like to make things that make a difference.
 ### 💻 Software and tools
 
 <p>
+    <a href="#"><img alt="MS Office Package" src="https://img.shields.io/badge/MS%20Office%20Package-<COLOR>.svg?logo=microsoft-office&logoColor=white"></a>
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="PHPMyAdmin" src="https://img.shields.io/badge/PHPMyAdmin-8A9296.svg?logo=php&logoColor=white"></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-4E8BF5.svg?logo=pycharm&logoColor=white"></a>
+    <a href="#"> <img alt="IntelliJ IDE" src="https://img.shields.io/badge/IntelliJ%20IDE-E37100.svg?logo=intellij-idea&logoColor=white"></a>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS%20Studio-302E31?logo=obs-studio&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter%20Notebook-F37626.svg?logo=jupyter&logoColor=white"></a>
 </p>
 
 
