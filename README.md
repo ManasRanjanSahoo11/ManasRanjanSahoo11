@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ## Glad to see you here! &nbsp;
 
-I am a Student in MCA. I love programming.
+I am a Student in MCA. A passionate for programming.
 
 As an MCA student, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
 
@@ -40,14 +40,14 @@ That's why I like to make things that make a difference.
 ### Talking about Personal Stuff:
 
 - 👨‍🎓 I'm a **Master In Computer Application Student**
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about:I am happy to help
+- 🔭 I’m currently working on developing a web-based application.
+- 🌱 I’m currently learning MERN Stack to enhance my skills.
+- 👯 I’m looking to collaborate on open-source projects related to web development. I believe in the power of teamwork to create innovative solutions.
+- 🤔 I’m looking for help with understanding programming. Any guidance or resources in this area would be highly appreciated.
+- 💬 Ask me about: programming languages like C, C++, Java, Python, database management, or anything related to software development. I am happy to share my knowledge and help others.
 - 📫 How to reach me: manasranjansahoo971@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new coding challenges and solving them
 
 ## 🛠️ My favorite tools
 
