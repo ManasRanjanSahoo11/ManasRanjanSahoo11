@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ## Glad to see you here! &nbsp;
 
-I am a Student in MCA. A passionate for programming.
+I am a Student in MCA. I am also passionate to programming.
 
-As an MCA student, I enjoy using my obsessive attention to detail, and my unequivocal love for making things that change the world.
+As an MCA student, I enjoy using my obsessive attention to detail and unmistakable love for making things that change the world.
 
 That's why I like to make things that make a difference.
 
