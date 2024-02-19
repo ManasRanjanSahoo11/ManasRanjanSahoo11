@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/manas-ranjan-sahoo13/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-ranjan" height="30" width="40" /></a>
 &nbsp;
 
-<a href="<a href="https://www.linkedin.com/in/manas-ranjan-sahoo13/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-ranjan" height="30" width="40" /></a>
-&nbsp;
+<a href="<a href="https://twitter.com/Manas_Ranjan11" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manas-ranjan" height="30" width="40" /></a>
 
 
 ## Glad to see you here! &nbsp;
