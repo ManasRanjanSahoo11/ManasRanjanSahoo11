@@ -40,7 +40,7 @@ That's why I like to make things that make a difference.
 - 🌱 I’m currently learning MERN Stack to enhance my skills.
 - 👯 I’m looking to collaborate on open-source projects related to web development. I believe in the power of teamwork to create innovative solutions.
 - 🤔 I’m looking for help with understanding programming. Any guidance or resources in this area would be highly appreciated.
-- 💬 Ask me about: programming languages like C, C++, Java, Python, database management, or anything related to software development. I am happy to share my knowledge and help others.
+- 💬 Ask me about: programming languages like C, C++, Java, Python, database management, or anything related to software development as well as web development such as HTML, CSS, and JAVASCRIPT. I am happy to share my knowledge and help others.
 - 📫 How to reach me: manasranjansahoo971@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new coding challenges and solving them
