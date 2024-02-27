@@ -35,7 +35,7 @@ That's why I like to make things that make a difference.
 
 ### Talking about Personal Stuff:
 
-- 👨‍🎓 I'm a **Master In Computer Application Student**
+- 👨‍🎓 I'm Currently Pusrsuing **Master In Computer Application Student**
 - 🔭 I’m currently working on developing a web-based application.
 - 🌱 I’m currently learning MERN Stack to enhance my skills.
 - 👯 I’m looking to collaborate on open-source projects related to web development. I believe in the power of teamwork to create innovative solutions.
